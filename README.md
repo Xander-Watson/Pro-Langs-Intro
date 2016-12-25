@@ -1,3 +1,3 @@
 ## Welcome to Pro-Langs-Intro!!!
 
-You can get the basic Hello World programs in different languages here!
+You can get Hello World programs in different programming languages here!
